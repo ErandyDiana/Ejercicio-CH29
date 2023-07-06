@@ -17,4 +17,9 @@
 9. Subir los cambios a 'develop' con 'git push origin develop'
 > Estos pasos se deben ejecutar cuando sea necesario
 ---
-### 
+### Referencias Markdown (md)
+
+[Marckdown guide] (https://www.markdownguide.org/basic-syntax/)
+[Makereadme]https://www.makeareadme.com/
+https://commonmark.org/help/tutorial/
+https://www.codecademy.com/resources/docs/markdown
