@@ -23,3 +23,6 @@
 [Makereadme]https://www.makeareadme.com/
 https://commonmark.org/help/tutorial/
 https://www.codecademy.com/resources/docs/markdown
+
+Equipo "Colibrí
+Somos un conjunto de personas que van a colaborar juntos para realizar una E-commerce de una tienda de ropa artesanal que esta enfocada en dar a conocer la cultura mexicana y ayudar a las manos artesanas para lograr un mayor reconocimiento con diseños unicos y materiales de la mejor calidad.
